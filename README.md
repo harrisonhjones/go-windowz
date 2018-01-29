@@ -4,7 +4,7 @@ A command line utility (and library) to set the z order of the foreground window
 
 ## Install
 
-1. `go get harrisonhjones.com/go-windowz`
+1. `go get harrisonhjones.com/go-windowz...`
 1. Add windowz.exe to your PATH
 
 ## Usage
