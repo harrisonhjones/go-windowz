@@ -10,7 +10,7 @@ import (
 	"time"
 	"unsafe"
 
-	"harrisonhjones.com/go-window-z"
+	"harrisonhjones.com/go-windowz"
 )
 
 func mustGetForegroundWindow() syscall.Handle {

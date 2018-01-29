@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"harrisonhjones.com/go-window-z"
+	"harrisonhjones.com/go-windowz"
 )
 
 var (
